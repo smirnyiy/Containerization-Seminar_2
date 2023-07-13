@@ -25,7 +25,7 @@ nano /var/lib/lxc/test123/config-открываем
 
 
 
-# Network configuration — Конфегурация сети
+Network configuration — Конфегурация сети
 .
 .
 .
